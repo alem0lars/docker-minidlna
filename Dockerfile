@@ -1,1 +1,1 @@
-FROM lsioarmhf/znc
+FROM vladgh/minidlna
